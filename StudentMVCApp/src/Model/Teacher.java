@@ -1,4 +1,4 @@
-package StudentServiceApp.src.StudentDomen;
+package Model;
 
 public class Teacher extends User {
     
